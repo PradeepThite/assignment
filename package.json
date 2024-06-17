@@ -1,0 +1,27 @@
+{
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "description": "* Clone this repository to your local machine.\r * Use your IDE of choice to complete the assignment.\r * When you have completed the assignment, you need to  push your code to this repository and [mark the assignment as completed by clicking here](https://app.snapcode.review/submission_links/33d0a712-0af0-4641-8df8-c223da9223fc).\r * Once you mark it as completed, your access to this repository will be revoked. Please make sure that you have completed the assignment and pushed all code from your local machine to this repository before you click the link.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "prestart": "npm install",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EqualExperts-Assignments/equal-experts-homefolk-roofing-sabre-5ba40dbbd475.git"
+  },
+  "author": "pradeep.thite19@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EqualExperts-Assignments/equal-experts-homefolk-roofing-sabre-5ba40dbbd475/issues"
+  },
+  "homepage": "https://github.com/EqualExperts-Assignments/equal-experts-homefolk-roofing-sabre-5ba40dbbd475#readme",
+  "dependencies": {
+    "axios": "^1.7.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
